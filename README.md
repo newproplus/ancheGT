@@ -3,6 +3,7 @@
 - 💞️ I'm looking to collaborate on trading
 - 📫 How to reach me 
   - https://twitter.com/newproplus
+  - https://www.npmjs.com/~newproplus
 
 <!---
 ancheGT/ancheGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
