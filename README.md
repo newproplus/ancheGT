@@ -5,7 +5,7 @@
   - https://twitter.com/newproplus
   - https://www.npmjs.com/~newproplus
 
-## Dante
+## Doante
 
 ### Cryptocurrency
 
